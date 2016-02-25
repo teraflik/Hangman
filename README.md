@@ -8,6 +8,7 @@ Development of this game consumed a great deal of work and dedication, but the r
 
 ###Features
 Some features of the program are:  
+
 1. The console output of the program is presented in a neat and clean way.  
 2. Browsing through the user interface is easy and smooth.  
 3. User has the choice to select a difficulty level from: Very Easy, Easy, Moderate, Hard, and Extremely Hard.  
